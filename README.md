@@ -24,7 +24,7 @@
     <td> April 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/makefiles.png?raw=true"></td>
       <td></td>
-      <td></td>
+      <td>  <a href="https://badge42.herokuapp.com/api/project/mbueno-g/Libft"> <a href="https://github.com/JaeSeoKim/badge42">hola </a> <a></td>
   </tr>
   <tr>
     <td rowspan = "3" >2</td>
@@ -32,7 +32,7 @@
     <td> July 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/c.jpg?raw=true"></td>
       <td></td>
-      <td> https://badge42.herokuapp.com/api/project/mbueno-g/Libft</td>
+      <td> </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/mbueno-g/ft_printf">ft_printf<a></td>
