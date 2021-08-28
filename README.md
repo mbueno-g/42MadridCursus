@@ -9,23 +9,6 @@
 | 2 | [ft_printf](https://github.com/mbueno-g/ft_printf) | July 2021 | <img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/makefiles.png?raw=true"> |  | [![ft_printf score](https://badge42.herokuapp.com/api/project/mbueno-g/ft_printf)](https://github.com/JaeSeoKim/badge42)
 | 2 | [born2beroot](https://github.com/mbueno-g/born2beroot) | August 2021 | Shell, <img height="40" src="https://github.com/mbueno-g/42MadridCursus/blob/main/virtualbox.jpg?raw=true">|  | [![born2beroot score](https://badge42.herokuapp.com/api/project/mbueno-g/Born2beroot)](https://github.com/JaeSeoKim/badge42) -->
 
-<style>
-  table {
-    align: center;
-    }
- </style>
-
-<head>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-</head>
-
 <table>
   <tr>
     <th>Level</th>
@@ -35,8 +18,8 @@
     <th>Description</th>
     <th>Score</th>
   </tr>
-  <tr>
-    <td>1</td>
+  <tr style="text-aling:center">
+    <td style="color:red">1</td>
     <td> <a href="https://github.com/mbueno-g/libft">Libft<a> </td>
     <td> April 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
