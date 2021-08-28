@@ -32,21 +32,21 @@
     <td> July 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/c.jpg?raw=true"></td>
       <td></td>
-      <td> </td>
+      <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/score_get_next_line.png?raw=true"></td>
   </tr>
   <tr>
     <td> <a href="https://github.com/mbueno-g/ft_printf">ft_printf<a></td>
     <td> July 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/makefiles.png?raw=true"></td>
       <td></td>
-      <td></td>
+      <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/score_ft_printf.png?raw=true"></td>
   </tr>
   <tr>
     <td> <a href="https://github.com/mbueno-g/born2beroot">Born2beroot<a></td>
     <td> August 2021 </td>
     <td> Shell, <img height="40" src="https://github.com/mbueno-g/42MadridCursus/blob/main/virtualbox.jpg?raw=true"></td>
       <td></td>
-      <td></td>
+      <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/score_born2beroot.png?raw=true"></td>
   </tr>
 </table>
 
