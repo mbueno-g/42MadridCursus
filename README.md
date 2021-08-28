@@ -9,9 +9,11 @@
 | 2 | [ft_printf](https://github.com/mbueno-g/ft_printf) | July 2021 | <img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/makefiles.png?raw=true"> |  | [![ft_printf score](https://badge42.herokuapp.com/api/project/mbueno-g/ft_printf)](https://github.com/JaeSeoKim/badge42)
 | 2 | [born2beroot](https://github.com/mbueno-g/born2beroot) | August 2021 | Shell, <img height="40" src="https://github.com/mbueno-g/42MadridCursus/blob/main/virtualbox.jpg?raw=true">|  | [![born2beroot score](https://badge42.herokuapp.com/api/project/mbueno-g/Born2beroot)](https://github.com/JaeSeoKim/badge42) -->
 
-table {
-  align: center;
-  }
+<style>
+  table {
+    align: center;
+    }
+ </style>
 
 <table>
   <tr>
