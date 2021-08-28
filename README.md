@@ -23,6 +23,7 @@
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
+
 <table>
   <tr>
     <th>Level</th>
