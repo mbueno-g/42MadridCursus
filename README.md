@@ -15,6 +15,7 @@
     <th>Proyect</th>
     <th>Date</th>
     <th>Language</th>
+    <th>Branch</th>
     <th>Description</th>
     <th>Score</th>
   </tr>
@@ -24,6 +25,7 @@
     <td> April 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td></td>
+      <td></td>
       <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/score_libft.png?raw=true"></td>
   </tr>
   <tr>
@@ -32,6 +34,7 @@
     <td> July 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"></td>
       <td></td>
+      <td></td>
       <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/score_get_next_line.png?raw=true"></td>
   </tr>
   <tr>
@@ -39,12 +42,14 @@
     <td> July 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td></td>
+      <td></td>
       <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/score_ft_printf.png?raw=true"></td>
   </tr>
   <tr>
     <td> <a href="https://github.com/mbueno-g/born2beroot">Born2beroot<a></td>
     <td> August 2021 </td>
     <td> Shell, <img height="40" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/virtualbox.jpg?raw=true"></td>
+      <td></td>
       <td></td>
       <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/score_born2beroot.png?raw=true"></td>
   </tr>
@@ -64,6 +69,7 @@
     <th>Proyect</th>
     <th>Date</th>
     <th>Language</th>
+    <th>Branch</th>
     <th>Description</th>
     <th>Status</th>
   </tr>
@@ -72,6 +78,7 @@
     <td> <a href="https://github.com/mbueno-g/so_long">so_long<a> </td>
     <td> September 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
+      <td>Graphic</td>
       <td></td>
       <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/subscribed.png?raw=true"></td>
   </tr>
@@ -79,6 +86,7 @@
     <td> <a href="https://github.com/mbueno-g/push_swap">push_swap<a></td>
     <td> September 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
+      <td></td>
       <td></td>
       <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/subscribed.png?raw=true"></td>
   </tr>
