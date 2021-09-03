@@ -2,8 +2,6 @@
 
 ## Proyects done!
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_lyjhU1w=/?moveToViewport=-1630,-734,2140,1016" frameBorder="0" scrolling="no" allowFullScreen></iframe>
-
 <!-- |  Level | Project | Date | Language | Description | Status |
 | :----: | :-----: | :--: | :------: | :---------: | :----: |
 | 1 | [libft](https://github.com/mbueno-g/libft) | April 2021 | <img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/makefiles.png?raw=true"> |  | [![Libft score](https://badge42.herokuapp.com/api/project/mbueno-g/Libft)](https://github.com/JaeSeoKim/badge42)
@@ -51,7 +49,6 @@
       <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/score_born2beroot.png?raw=true"></td>
   </tr>
 </table>
-
 
 ## Next proyects
 
