@@ -60,7 +60,7 @@
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>Graphic</td>
       <td>And thanks for all the fish!</td>
-      <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/subscribed.png?raw=true"></td>
+      <td><img src="https://user-images.githubusercontent.com/71781441/134967180-9a7b202c-7e60-4898-8b49-68007ed5e4c9.png"></td>
   </tr>
   <tr>
     <td> <a href="https://github.com/mbueno-g/push_swap">push_swap<a></td>
@@ -68,7 +68,7 @@
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>Algorithmic</td>
       <td>Because swap_push isn’t as natural</td>
-      <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/subscribed.png?raw=true"></td>
+      <td><img src="https://user-images.githubusercontent.com/71781441/134967688-b41557d2-3c87-48e4-b092-f45bb02c0622.png"></td>
   </tr>
 </table>
 
