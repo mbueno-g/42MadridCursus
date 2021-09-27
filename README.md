@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <th>Level</th>
+    <th>Circle</th>
     <th>Proyect</th>
     <th>Date</th>
     <th>Language</th>
@@ -82,7 +82,7 @@
       
 <table>
   <tr>
-    <th>Level</th>
+    <th>Circle</th>
     <th>Proyect</th>
     <th>Date</th>
     <th>Language</th>
