@@ -95,14 +95,6 @@
     <td> <a href="https://github.com/mbueno-g/pipex">pipex<a> </td>
     <td> September 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
-      <td>Graphic</td>
-      <td></td>
-      <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/subscribed.png?raw=true"></td>
-  </tr>
-  <tr>
-    <td> <a href="https://github.com/mbueno-g/push_swap">push_swap<a></td>
-    <td> September 2021 </td>
-    <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td></td>
       <td></td>
       <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/subscribed.png?raw=true"></td>
