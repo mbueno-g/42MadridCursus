@@ -91,12 +91,21 @@
     <th>Status</th>
   </tr>
   <tr>
-    <td rowspan = "2">3</td>
+    <td rowspan = "1">3</td>
     <td> <a href="https://github.com/mbueno-g/pipex">pipex<a> </td>
     <td> September 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>Unix</td>
       <td>Go dance salsa somewhere :)</td>
+      <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/subscribed.png?raw=true"></td>
+  </tr>
+  <tr>
+    <td rowspan = "1">4</td>
+    <td> <a href="https://github.com/mbueno-g/philosophers">philosophers<a> </td>
+    <td> October 2021 </td>
+    <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
+      <td>Unix</td>
+      <td>I've never thought phylosophy would be so deadly</td>
       <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/subscribed.png?raw=true"></td>
   </tr>
 </table>
