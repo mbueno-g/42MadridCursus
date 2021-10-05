@@ -54,7 +54,7 @@
       <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/score_born2beroot.png?raw=true"></td>
   </tr>
    <tr>
-    <td rowspan = "2">3</td>
+    <td rowspan = "3">3</td>
     <td> <a href="https://github.com/mbueno-g/so_long">so_long<a> </td>
     <td> September 2021 </td>
     <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
@@ -69,6 +69,14 @@
       <td>Algorithmic</td>
       <td>Because swap_push isn’t as natural</td>
       <td><img src="https://user-images.githubusercontent.com/71781441/134967688-b41557d2-3c87-48e4-b092-f45bb02c0622.png"></td>
+  </tr>
+   <tr>
+    <td> <a href="https://github.com/mbueno-g/pipex">pipex<a> </td>
+    <td> September 2021 </td>
+    <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
+      <td>Unix</td>
+      <td>Go dance salsa somewhere :)</td>
+      <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/score_libft.png?raw=true"></td>
   </tr>
 </table>
 
@@ -89,15 +97,6 @@
     <th>Branch</th>
     <th>Description</th>
     <th>Status</th>
-  </tr>
-  <tr>
-    <td rowspan = "1">3</td>
-    <td> <a href="https://github.com/mbueno-g/pipex">pipex<a> </td>
-    <td> September 2021 </td>
-    <td><img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
-      <td>Unix</td>
-      <td>Go dance salsa somewhere :)</td>
-      <td><img src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/subscribed.png?raw=true"></td>
   </tr>
   <tr>
     <td rowspan = "1">4</td>
