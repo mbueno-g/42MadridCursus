@@ -53,6 +53,15 @@
       <td>The wonderful world of virtualization</td>
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Born2beroot"></td>
   </tr>
+  <tr align=center>
+     <td> Exam </td>
+      <td> <a href="https://github.com/mbueno-g/exam_rank_02">exam_rank_02<a></td>
+      <td> September 2021 </td>
+      <td> </td>
+        <td> -- </td>
+        <td> </td>
+        <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Exam%20Rank%2002"></td>
+    </tr>
    <tr align=center>
     <td rowspan = "3">3</td>
     <td> <a href="https://github.com/mbueno-g/so_long">so_long<a> </td>
