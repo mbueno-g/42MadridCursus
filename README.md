@@ -23,7 +23,9 @@
     <td>1</td>
     <td> <a href="https://github.com/mbueno-g/libft">Libft<a> </td>
     <td> April 2021 </td>
-    <td> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"><img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
+    <td> 
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35">
+      <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>C functions</td>
       <td>Your very first own library</td>
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Libft"></td>
@@ -48,7 +50,9 @@
   <tr align=center>
     <td> <a href="https://github.com/mbueno-g/born2beroot">Born2beroot<a></td>
     <td> August 2021 </td>
-    <td> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash"  height="35"> <img height="40" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/virtualbox.jpg?raw=true"></td>
+    <td> 
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash"  height="35"> 
+      <img height="40" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/virtualbox.jpg?raw=true"></td>
       <td>Virtualization, Shell</td>
       <td>The wonderful world of virtualization</td>
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Born2beroot"></td>
