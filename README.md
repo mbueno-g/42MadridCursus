@@ -62,7 +62,7 @@
       <td> <a href="https://github.com/mbueno-g/exam_rank_02">exam_rank_02<a></td>
       <td> September 2021 </td>
       <td> </td>
-        <td> -- </td>
+        <td> ft_printf + get_next_line </td>
         <td> </td>
         <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Exam%20Rank%2002"></td>
     </tr>
@@ -87,7 +87,7 @@
     <td> <a href="https://github.com/mbueno-g/pipex">pipex<a> </td>
     <td> September 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
-      <td>Unix</td>
+      <td>Unix (process + fork) </td>
       <td>Go dance salsa somewhere :)</td>
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/pipex"></td>
   </tr>
@@ -105,7 +105,7 @@
       <td> <a href="https://github.com/mbueno-g/exam_rank_02">exam_rank_03<a></td>
       <td> November 2021 </td>
       <td> </td>
-        <td> -- </td>
+        <td>  </td>
         <td> </td>
         <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Exam%20Rank%2002"></td>
     </tr>
@@ -134,7 +134,7 @@
     <td> <a href="https://github.com/mbueno-g/philosophers">philosophers<a> </td>
     <td> October 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
-      <td>Unix</td>
+      <td>Unix(threads + mutex)</td>
       <td>I've never thought phylosophy would be so deadly</td>
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Philosophers"></td>
   </tr>
