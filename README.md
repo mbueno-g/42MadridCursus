@@ -110,7 +110,7 @@
   </tr>
   <tr align=center>
      <td> Exam </td>
-      <td> <a href="https://github.com/mbueno-g/exam_rank_02">exam_rank_03<a></td>
+      <td> <a href="https://github.com/mbueno-g/exam_rank_03">exam_rank_03<a></td>
       <td> November 2021 </td>
       <td> </td>
         <td>  </td>
@@ -138,13 +138,13 @@
     <th>Status</th>
   </tr>
   <tr align=center>
-     <td> 5 </td>
-      <td> <a href="https://github.com/mbueno-g/exam_rank_02">exam_rank_03<a></td>
-      <td> November 2021 </td>
-      <td> </td>
-        <td>  </td>
-        <td> </td>
-        <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Exam%20Rank%2002"></td>
-    </tr>
+    <td> 5 </td>
+    <td> <a href="https://github.com/mbueno-g/CPP/CPP00">CPP00<a> </td>
+    <td> December 2021 </td>
+    <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
+      <td>C++ functions</td>
+      <td>Namespace, class, member functions, stdio stream,initialization lists, static, const, and lots of basic stuf</td>
+      <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/cpp_module_00"></td>
+  </tr>
 </table>
 
