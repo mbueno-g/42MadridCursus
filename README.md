@@ -115,7 +115,7 @@
       <td> </td>
         <td>  </td>
         <td> </td>
-        <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Exam%20Rank%2002"></td>
+        <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Exam%20Rank%2003"></td>
     </tr>
 </table>
       
@@ -144,7 +144,7 @@
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>C++ functions</td>
       <td>Namespace, class, member functions, stdio stream,initialization lists, static, const, and lots of basic stuf</td>
-      <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/cpp_module_00"></td>
+      <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/CPP%20Module%2000"></td>
   </tr>
 </table>
 
