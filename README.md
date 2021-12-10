@@ -139,7 +139,7 @@
   </tr>
   <tr align=center>
     <td rowspan = "9"> 5 </td>
-    <td> <a href="https://github.com/mbueno-g/CPP/CPP00">CPP00<a> </td>
+    <td> <a href="https://github.com/mbueno-g/CPP/tree/master/CPP00">CPP00<a> </td>
     <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>C++ functions</td>
@@ -147,7 +147,7 @@
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/CPP%20Module%2000"></td>
   </tr>
    <tr align=center>
-    <td> <a href="https://github.com/mbueno-g/CPP/CPP00">CPP01<a> </td>
+    <td> <a href="https://github.com/mbueno-g/CPP/tree/master/CPP01">CPP01<a> </td>
     <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>C++ functions</td>
@@ -155,7 +155,7 @@
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/CPP%20Module%2000"></td>
   </tr>
    <tr align=center>
-    <td> <a href="https://github.com/mbueno-g/CPP/CPP00">CPP02<a> </td>
+    <td> <a href="https://github.com/mbueno-g/CPP/tree/master/CPP02">CPP02<a> </td>
     <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>C++ functions</td>
@@ -163,7 +163,7 @@
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/CPP%20Module%2000"></td>
   </tr>
       <tr align=center>
-    <td> <a href="https://github.com/mbueno-g/CPP/CPP00">CPP03<a> </td>
+    <td> <a href="https://github.com/mbueno-g/CPP/tree/master/CPP03">CPP03<a> </td>
     <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>C++ functions</td>
@@ -171,7 +171,7 @@
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/CPP%20Module%2000"></td>
   </tr>
   <tr align=center>
-    <td> <a href="https://github.com/mbueno-g/CPP/CPP00">CPP04<a> </td>
+    <td> <a href="https://github.com/mbueno-g/CPP/tree/master/CPP04">CPP04<a> </td>
     <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>C++ functions</td>
@@ -179,7 +179,7 @@
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/CPP%20Module%2000"></td>
   </tr>
   <tr align=center>
-    <td> <a href="https://github.com/mbueno-g/CPP/CPP00">CPP05<a> </td>
+    <td> <a href="https://github.com/mbueno-g/CPP/tree/master/CPP05">CPP05<a> </td>
     <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>C++ functions</td>
@@ -187,7 +187,7 @@
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/CPP%20Module%2000"></td>
   </tr>
  <tr align=center>
-    <td> <a href="https://github.com/mbueno-g/CPP/CPP00">CPP06<a> </td>
+    <td> <a href="https://github.com/mbueno-g/CPP/tree/master/CPP06">CPP06<a> </td>
     <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>C++ functions</td>
@@ -195,7 +195,7 @@
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/CPP%20Module%2000"></td>
   </tr>
   <tr align=center>
-    <td> <a href="https://github.com/mbueno-g/CPP/CPP00">CPP07<a> </td>
+    <td> <a href="https://github.com/mbueno-g/CPP/tree/master/CPP07">CPP07<a> </td>
     <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>C++ functions</td>
@@ -203,7 +203,7 @@
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/CPP%20Module%2000"></td>
   </tr>
   <tr align=center>
-    <td> <a href="https://github.com/mbueno-g/CPP/CPP00">CPP08<a> </td>
+    <td> <a href="https://github.com/mbueno-g/CPP/tree/master/CPP08">CPP08<a> </td>
     <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>C++ functions</td>
