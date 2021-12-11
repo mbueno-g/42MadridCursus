@@ -78,7 +78,7 @@
     <td> <a href="https://github.com/mbueno-g/push_swap">push_swap<a></td>
     <td> September 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
-      <td>Algorithmic</td>
+      <td>Algorithm</td>
       <td>Because swap_push isn’t as natural</td>
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/push_swap"></td>
   </tr>
