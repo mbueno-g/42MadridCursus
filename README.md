@@ -35,7 +35,7 @@
     <td> <a href="https://github.com/mbueno-g/get_next_line">get_next_line<a></td>
     <td> July 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"></td>
-      <td></td>
+      <td> Global</td>
       <td>Reading a line on a fd is way too tedious</td>
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/get_next_line"></td>
   </tr>
@@ -61,9 +61,8 @@
      <td> Exam </td>
       <td> <a href="https://github.com/mbueno-g/exam_rank_02">exam_rank_02<a></td>
       <td> September 2021 </td>
-      <td> </td>
-        <td> ft_printf + get_next_line </td>
-        <td> </td>
+      <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"></td>
+        <td colspan="2"> ft_printf + get_next_line </td>
         <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Exam%20Rank%2002"></td>
     </tr>
    <tr align=center>
@@ -71,7 +70,7 @@
     <td> <a href="https://github.com/mbueno-g/so_long">so_long<a> </td>
     <td> September 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
-      <td>Graphic</td>
+      <td>Graphic (miniLibX)</td>
       <td>And thanks for all the fish!</td>
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/so_long"></td>
   </tr>
@@ -102,7 +101,7 @@
   </tr>
   <tr align=center>
     <td> <a href="https://github.com/mbueno-g/philosophers">philosophers<a> </td>
-    <td> October 2021 </td>
+    <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
       <td>Unix(threads + mutex)</td>
       <td>I've never thought phylosophy would be so deadly</td>
@@ -112,9 +111,8 @@
      <td> Exam </td>
       <td> <a href="https://github.com/mbueno-g/exam_rank_03">exam_rank_03<a></td>
       <td> November 2021 </td>
-      <td> </td>
-        <td>  </td>
-        <td> </td>
+      <td> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"> </td>
+        <td colspan="2"> Read an "operation file" and print the result in the terminal </td>
         <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Exam%20Rank%2003"></td>
     </tr>
 </table>
@@ -138,7 +136,7 @@
     <th>Status</th>
   </tr>
   <tr align=center>
-    <td rowspan = "9"> 5 </td>
+    <td rowspan = "11"> 5 </td>
     <td> <a href="https://github.com/mbueno-g/CPP/tree/master/CPP00">CPP00<a> </td>
     <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
@@ -210,5 +208,29 @@
       <td>Templated containers, iterators, algorithms</td>
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/CPP%20Module%2000"></td>
   </tr>
+  <tr align=center>
+    <td> <a href="https://github.com/mbueno-g/cub3D">cub3D<a> </td>
+    <td> 2022 </td>
+    <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
+      <td>Graphic (miniLibX)</td>
+      <td>My first RayCaster with miniLibX</td>
+      <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/cub3D"></td>
+  </tr>
+  <tr align=center>
+    <td> <a href="https://github.com/mbueno-g/Net_Practice">Net_Practice<a> </td>
+    <td> 2022 </td>
+    <td> </td>
+      <td>Web</td>
+      <td></td>
+      <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Net_Practice"></td>
+  </tr>
+  <tr align=center>
+     <td> Exam </td>
+      <td> <a href="https://github.com/mbueno-g/exam_rank_04">exam_rank_04<a></td>
+      <td> 2022 </td>
+      <td>  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"> </td>
+        <td colspan="2">Write a program that will behave like executing a shell command</td>
+        <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Exam%20Rank%2004"></td>
+    </tr>
 </table>
 
