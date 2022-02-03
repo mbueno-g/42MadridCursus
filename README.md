@@ -1,6 +1,6 @@
 # 42MadridCursus
 
-## Proyects done!
+## Projects done!
 
 <!-- |  Level | Project | Date | Language | Description | Status |
 | :----: | :-----: | :--: | :------: | :---------: | :----: |
@@ -12,7 +12,7 @@
 <table>
   <tr align=center>
     <th>Circle</th>
-    <th>Proyect</th>
+    <th>Project</th>
     <th>Date</th>
     <th>Language</th>
     <th>Branch</th>
@@ -117,7 +117,7 @@
     </tr>
 </table>
       
-## Next proyects
+## Next projects
 
 <!-- |  Level | Project | Date | Language | Description | Status |
 | :----: | :-----: | :--: | :------: | :---------: | :----: |
@@ -128,7 +128,7 @@
 <table>
   <tr>
     <th>Circle</th>
-    <th>Proyect</th>
+    <th>Project</th>
     <th>Date</th>
     <th>Language</th>
     <th>Branch</th>
