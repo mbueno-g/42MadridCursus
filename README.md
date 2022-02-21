@@ -115,16 +115,18 @@
         <td colspan="2"> Read an "operation file" and print the result in the terminal </td>
         <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/Exam%20Rank%2003"></td>
     </tr>
+    <tr align=center>
+      <td> 5 </td>
+      <td> <a href="https://github.com/mbueno-g/cub3D">cub3D<a> </td>
+      <td> February 2022 </td>
+      <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
+      <td>Graphic (miniLibX)</td>
+      <td>My first RayCaster with miniLibX</td>
+      <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/cub3d"></td>
+  </tr>
 </table>
       
 ## Next projects
-
-<!-- |  Level | Project | Date | Language | Description | Status |
-| :----: | :-----: | :--: | :------: | :---------: | :----: |
-| 3 | [so_long](https://github.com/mbueno-g/so_long) | September 2021 | <img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/makefiles.png?raw=true">|  | [![so_long score](https://badge42.herokuapp.com/api/project/mbueno-g/so_long)](https://github.com/JaeSeoKim/badge42)
-| 3 | [push_swap](https://github.com/mbueno-g/push_swap) | September 2021 | <img height="30" src="https://github.com/mbueno-g/42MadridCursus/blob/main/c.jpg?raw=true"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/makefiles.png?raw=true"> | | [![push_swap score](https://badge42.herokuapp.com/api/project/mbueno-g/push_swap)](https://github.com/JaeSeoKim/badge42) -->
-
-      
 <table>
   <tr>
     <th>Circle</th>
@@ -136,7 +138,7 @@
     <th>Status</th>
   </tr>
   <tr align=center>
-    <td rowspan = "11"> 5 </td>
+    <td rowspan = "10"> 5 </td>
     <td> <a href="https://github.com/mbueno-g/CPP/tree/master/CPP00">CPP00<a> </td>
     <td> December 2021 </td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
@@ -207,15 +209,7 @@
       <td>C++ functions</td>
       <td>Templated containers, iterators, algorithms</td>
       <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/CPP%20Module%2000"></td>
-  </tr>
-  <tr align=center>
-    <td> <a href="https://github.com/mbueno-g/cub3D">cub3D<a> </td>
-    <td> 2022 </td>
-    <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35"> <img height="15" src="https://github.com/mbueno-g/42MadridCursus/blob/main/img/makefiles.png?raw=true"></td>
-      <td>Graphic (miniLibX)</td>
-      <td>My first RayCaster with miniLibX</td>
-      <td><img src="https://badge42.herokuapp.com/api/project/mbueno-g/cub3D"></td>
-  </tr>
+      </tr>
   <tr align=center>
     <td> <a href="https://github.com/mbueno-g/Net_Practice">Net_Practice<a> </td>
     <td> 2022 </td>
